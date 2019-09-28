@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f0185a0c-db3a-4284-bac7-7ce6db7393ce" name="Default Changelist" comment="" />
+    <list default="true" id="f0185a0c-db3a-4284-bac7-7ce6db7393ce" name="Default Changelist" comment="小猿修改了项目">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,7 +25,7 @@
         <entry file="file://$PROJECT_DIR$/src/HelloGit.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="95">
-              <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
               <folding>
                 <element signature="e#67#68#0" expanded="true" />
                 <element signature="e#114#115#0" expanded="true" />
@@ -53,8 +55,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="57" />
-    <option name="y" value="27" />
+    <option name="x" value="1122" />
+    <option name="y" value="70" />
     <option name="width" value="1750" />
     <option name="height" value="980" />
   </component>
@@ -69,13 +71,8 @@
         <subPane>
           <expand>
             <path>
-              <item name="Gitxz" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Gitxz" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Gitxz" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Gitxz" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="gittest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="gittest" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -118,6 +115,7 @@
       <updated>1569641203985</updated>
       <workItem from="1569641210670" duration="790000" />
       <workItem from="1569646130139" duration="821000" />
+      <workItem from="1569648741252" duration="251000" />
     </task>
     <task id="LOCAL-00001" summary="小张提交新建项目">
       <created>1569641972663</created>
@@ -130,12 +128,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1611000" />
+    <option name="totallyTimeSpent" value="1862000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="47" y="23" width="1400" height="784" extended-state="0" />
+    <frame x="45" y="21" width="1400" height="784" extended-state="1" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28166914" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28614008" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -179,7 +177,7 @@
     <entry file="file://$PROJECT_DIR$/src/HelloGit.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
           <folding>
             <element signature="e#67#68#0" expanded="true" />
             <element signature="e#114#115#0" expanded="true" />
